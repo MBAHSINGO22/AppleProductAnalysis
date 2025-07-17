@@ -30,7 +30,7 @@ Analisis dilakukan terhadap:
 ```
 AppleProductAnalysis/
 ├── 235314099-AppleProduct.ipynb    # Notebook analisis utama
-└── apple_products.csv                     # Dokumentasi proyek
+└── apple_products.csv              # File csv
 ```
 
 ---

@@ -1,4 +1,4 @@
-<h1 align="center">🍎 AppleProductAnalysis</h1>
+<h1 align="center">🍎 Apple Product Analysis</h1>
 <p align="center">
   <b>Analisis Data Produk Apple Menggunakan Python</b><br>
 </p>
@@ -16,7 +16,7 @@
 
 ## 📖 Deskripsi Proyek
 
-**AppleProductAnalysis** adalah proyek eksplorasi data berbasis notebook yang berfokus pada produk Apple seperti iPhone, iPad, dan MacBook.
+**AppleProductAnalysis** adalah data berbasis notebook yang berfokus pada produk Apple seperti iPhone, iPad, dan MacBook.
 
 Analisis dilakukan terhadap:
 - Spesifikasi dan fitur utama
@@ -30,7 +30,7 @@ Analisis dilakukan terhadap:
 ```
 AppleProductAnalysis/
 ├── 235314099-AppleProduct.ipynb    # Notebook analisis utama
-└── README.md                       # Dokumentasi proyek
+└── apple_products.csv                     # Dokumentasi proyek
 ```
 
 ---
@@ -50,27 +50,13 @@ AppleProductAnalysis/
 ```bash
 pip install pandas matplotlib seaborn
 ```
-
-### 2️⃣ Buka Notebook
-```bash
-jupyter notebook 235314099-AppleProduct.ipynb
-```
-
 ---
 
 ## 📊 Insight yang Diperoleh
 
 - Tren harga iPhone berdasarkan penyimpanan
-- Komparasi harga antar model
+- Compare harga antar model
 - Visualisasi distribusi harga produk Apple
-
----
-
-## 📌 Catatan
-
-- Dataset dapat berasal dari sumber online marketplace atau dikompilasi manual
-- Analisis dapat dikembangkan untuk perbandingan multibrand (Samsung, Xiaomi, dll)
-- Cocok untuk studi kasus e-commerce atau consumer tech analysis
 
 ---
 
@@ -80,7 +66,3 @@ jupyter notebook 235314099-AppleProduct.ipynb
 🔗 [GitHub](https://github.com/MBAHSINGO22)
 
 ---
-
-## 📄 Lisensi
-
-Proyek ini bebas digunakan untuk pembelajaran, tugas kuliah, atau portofolio analisis data.

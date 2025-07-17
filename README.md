@@ -1,7 +1,6 @@
 <h1 align="center">🍎 AppleProductAnalysis</h1>
 <p align="center">
   <b>Analisis Data Produk Apple Menggunakan Python</b><br>
-  <sub>Eksplorasi dan visualisasi harga serta spesifikasi produk Apple</sub>
 </p>
 
 <div align="center">
